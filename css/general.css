@@ -76,7 +76,7 @@ Default : 9px
 html{
     font-size: 62.5%;
     overflow-x: hidden;
-
+    /* scroll-behavior: smooth; */
 }
 
 body{
@@ -86,6 +86,7 @@ body{
     color: #555;
     /* ONLY WORKS IF NOTHING ABSOLUTELY POSITIONED IN RELATION TO BODY */
     overflow-x: hidden;
+    
 
 }
 
